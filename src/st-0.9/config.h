@@ -149,7 +149,7 @@ static const ColorScheme schemes[] = {
 	  [256]="#586e75", "#002b36"}, 12, 8, 256, 257},
 
 	// Gruvbox dark(er)
-	{{"#1c1c1c", "#cc241d", "#98971a", "#d79921",
+	{{"#121212", "#cc241d", "#98971a", "#d79921",
 	  "#458588", "#b16286", "#689d6a", "#a89984",
 	  "#928374", "#fb4934", "#b8bb26", "#fabd2f",
 	  "#83a598", "#d3869b", "#8ec07c", "#ebdbb2",
@@ -164,7 +164,7 @@ static const ColorScheme schemes[] = {
 };
 
 static const char * const * colorname;
-int colorscheme = 0;
+int colorscheme = 6;
 
 /*
  * Default colors (colorname index)
