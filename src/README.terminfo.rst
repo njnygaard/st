@@ -1,0 +1,1 @@
+/home/drone/Downloads/aur/st/README.terminfo.rst
